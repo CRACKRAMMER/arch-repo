@@ -1,0 +1,2 @@
+f5a4b61425a37a75cc150f18397c31f6c47c8e4e2572c1845d406ba1f75df53b  prismray-1.1.0-1-x86_64.pkg.tar.zst
+624dd018aa27005754c53047beaabd4bf04f641ce0a39429c2906dd6f2fce71d  prismray-server-1.1.0-1-x86_64.pkg.tar.zst
